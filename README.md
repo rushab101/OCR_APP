@@ -3,9 +3,8 @@
 An app that I have made using Android Studio and Java.
 <table>
   <thead>
-    <tr>
+     <tr>
        <th><img align="left" width="461" height="500" src="https://i.imgur.com/Gf8hFNo.png"></th>
-    
     </tr>
   </thead>
 </table>
