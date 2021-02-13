@@ -9,8 +9,8 @@ Once the app detects any kind of character it shows it on the left hand side of 
 <table>
   <thead>
     <tr>
-      <th><img align="left" width="461" height="302" src="https://imgur.com/a/7kc0B39"></th>
-      <th><img align="right" width="461" height="302" src="https://imgur.com/5zvxRQS"></th>
+      <th><img align="left" src="https://imgur.com/a/7kc0B39"></th>
+      <th><img align="right" src="https://imgur.com/5zvxRQS"></th>
     </tr>
   </thead>
 </table>
